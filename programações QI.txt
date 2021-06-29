@@ -1,0 +1,118 @@
+1.
+
+// variaveis 
+  
+  var nome = "Lorenzo";
+  var sobrenome = "Aguirre";
+  var idade = "19 anos";
+  var endereco = "Rua das orquideas, 49";
+  
+  
+  // saida concatenada com quebra de linha
+  
+  print("Nome: $nome\n"
+        "Sobrenome: $sobrenome\n"
+        "Idade: $idade\n"
+        "Endereço: $endereco");
+  --------------------------------------------
+
+2.
+
+ // variáveis 
+  double a = 25;
+  double b = 4;
+  
+  // multiplicar
+  double multi = a * b;
+  
+  print("A multiplicação entre 25 e 4 é: $multi");
+  
+------------------------------------------------
+
+3.
+
+
+  // B = base maior
+  // b = base menor
+  // h = altura
+  // A = área 
+  // 2 = valor da divisão
+  
+  
+  // variáveis
+  
+  int valorB = 16;
+  int valorb = 8;
+  int valorh = 4;
+  int valor2 = 2;
+  
+  // adição
+  int soma = valorB + valorb;
+  
+  
+  // multiplicação
+  int multi = (valorB + valorb) * valorh;
+  
+  
+  // divisão
+  double div = (valorB + valorb) * valorh / valor2;
+  
+  
+  print("A área deste trapézio é: $div");
+  
+--------------------------------------------------
+
+4.
+
+// b = base
+  // h = altura
+  
+  
+  //variáveis
+  
+  int valorb = 10;
+  int valorh = 5;
+  
+  
+  //multiplicação
+   int multi = valorb * valorh;
+  
+  
+  print("A área deste quadrado é: $multi");
+  
+-----------------------------------------------------
+
+5.
+
+  String nome = "Ricardo";
+  
+  if(nome=="Ricardo") {
+    print("É a mesma pessoa");
+  }
+   else
+   {
+     print("Os nomes não conferem");
+   }
+  
+  String nome2 = "Tatiana";
+  
+  if(nome2=="Tatiana") {
+    print("É a mesma pessoa");
+  }
+  else
+  {
+    print("Os nomes não conferem");
+  }
+  
+  String nome3 = "Cleber";
+  
+  if(nome3=="Cleber") {
+    print("É a mesma pessoa");
+  }
+  else
+  {
+    print("Os nomes não conferem");
+  }
+  
+  
+  
